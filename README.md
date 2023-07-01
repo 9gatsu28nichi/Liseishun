@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=liseishun)
 <h1 align="center">Hi there I'm Shun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
 <h1 align="center">こんにちは世界</h1>
 <body>
